@@ -1,0 +1,29 @@
+{
+  "name": "opsgenie-notifier",
+  "version": "1.0.0",
+  "description": "OpsGenie desktop notification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-notifier": "^5.1.2",
+    "opsgenie-sdk": "^0.4.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "keywords": [
+    "opsgenie",
+    "notifier",
+    "notification"
+  ],
+  "author": {
+    "name": "Halil Ibrahim Sener",
+    "email": "hisener@yahoo.com",
+    "url": "http://halilsener.com/"
+  },
+  "license": "MIT"
+}
