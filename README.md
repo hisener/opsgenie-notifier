@@ -24,7 +24,7 @@ npm start
 ```
 
 ## Known issues
-- Notifications disapper after 5s and it cannot changeable. mikaelbr/node-notifier/#172
+- Notifications disapper after 5s and it cannot changeable. [mikaelbr/node-notifier#172](https://github.com/mikaelbr/node-notifier/issues/172)
 
 ## Credits
 - [node-notifier](https://github.com/mikaelbr/node-notifier) for sending notifications
