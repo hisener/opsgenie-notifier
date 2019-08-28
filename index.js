@@ -52,7 +52,7 @@ function getOpenAlerts () {
         return reject(err)
       }
 
-      resolve(JSON.parse(res).data)
+      resolve(res.data)
     })
   })
 }
